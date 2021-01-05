@@ -1,2 +1,2 @@
-# first-react-native-weather-app
-first-react-native-weather-app
+# weather-app
+react-native weather app with expo
